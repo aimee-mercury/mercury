@@ -2,7 +2,7 @@
 <h3 align="center"> A frontend developer And Mobile App developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimee-mercury&label=Profile%20views&color=0e75b6&style=flat" alt="aimee-mercury" /> </p>
-- 📫 How to reach me **ingabiremarieaimee6@gmail.com**
+- 📫inbox me on email : ingabiremarieaimee6@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ngabire marie aimee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngabire marie aimee" height="30" width="40" /></a>
